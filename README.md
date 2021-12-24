@@ -1,4 +1,6 @@
 # JUnit 
+---------
+#  Create a new test class, and it should be in the same package as the tseted class, except in the scr/test/java directory. 
 
 The `cart` folder contains a Maven project, `TotalsCalculator` calculates the fields of a `CartTotals` object from a list 
 of `CartItem` objects.
